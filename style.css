@@ -4,23 +4,23 @@ h1{
 }
 
 img{
-    width: 30%;
+    width: 50%;
     aspect-ratio: 1;
-    position: fixed;
-    left: 35%;
-    top: 10%;
+position: fixed;
+    top: 8%;
+    left: 30%;
 }
 
-#imgdiv{
-    width: 30%;
-    aspect-ratio: 1;
-    position: relative;
-    left: 38%;
-}
 
 p{
     color: red;
-    font-size: 30px;
+    font-size: 15px;
+    font-style: italic;
+    position: relative;
+    top: 40%;
+    left: 40%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
 }
 
 img:hover{
