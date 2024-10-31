@@ -1,0 +1,11 @@
+.heading{
+  text-align: center;
+}
+
+.image{
+  height: 5in;
+  aspect-ratio: 3in;
+  position: relative;
+  left: 37%;
+}
+
